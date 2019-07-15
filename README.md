@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Note Taking App
+# Country Search TypeAhead App
 
 A basic typahead app in react to get a country suggestion.
 
